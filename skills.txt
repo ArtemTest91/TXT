@@ -1,0 +1,1 @@
+Теория, API, JS, Dev Tools, Postman, Git, Charles и Fiddler, SQL
